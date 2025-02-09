@@ -1,2 +1,2 @@
 # BlockCLatex
-拿区块链联手的Latex测试
+拿区块链练手的Latex测试
